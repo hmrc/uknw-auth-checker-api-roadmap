@@ -1,4 +1,4 @@
 ->      /                                                  health.Routes
-GET     /guides/uknw-auth-checker-api-roadmap           controllers.Default.redirect(to = "/guides/uknw-auth-checker-api-roadmap/")
-GET     /guides/uknw-auth-checker-api-roadmap/          controllers.Assets.at(path="/public", file="index.html")
-GET     /guides/uknw-auth-checker-api-roadmap/*file     controllers.Assets.at(path="/public", file)
+GET     /roadmaps/uknw-auth-checker-api-roadmap           controllers.Default.redirect(to = "/roadmaps/uknw-auth-checker-api-roadmap/")
+GET     /roadmaps/uknw-auth-checker-api-roadmap/          controllers.Assets.at(path="/public", file="index.html")
+GET     /roadmaps/uknw-auth-checker-api-roadmap/*file     controllers.Assets.at(path="/public", file)
