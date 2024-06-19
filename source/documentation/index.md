@@ -2,6 +2,7 @@
 Last updated: June 17th 2024
 
 ## NOP Waiver
+
 Learn here about key NOP Waiver Checker API dates.
 | Event                            | Date(s)             |
 | -------------------------------- | ------------------- |
