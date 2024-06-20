@@ -2,8 +2,9 @@
 Last updated: June 17th 2024
 
 ## NOP Waiver
-
 Learn here about key NOP Waiver Checker API dates.
+
+
 | Event                            | Date(s)             |
 | -------------------------------- | ------------------- |
 | NOP Waiver Checker API (Go-Live) | 30th September 2024 |
