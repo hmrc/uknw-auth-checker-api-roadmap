@@ -1,5 +1,5 @@
-# Notice of Presentation (NOP) Waiver Checker API Roadmap
-Last updated: June 17th 2024
+# Notification of Presentation (NOP) Waiver Checker API Roadmap
+Last updated: June 28th 2024
 
 ## NOP Waiver
 Learn here about key NOP Waiver Checker API dates.
