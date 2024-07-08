@@ -1,5 +1,5 @@
-# Notice of Presentation (NOP) Waiver Checker API Roadmap
-Last updated: June 17th 2024
+# Notification of Presentation (NOP) Waiver Checker API Roadmap
+Last updated: July 8th 2024
 
 ## NOP Waiver
 Learn here about key NOP Waiver Checker API dates.
@@ -10,14 +10,14 @@ Learn here about key NOP Waiver Checker API dates.
 | NOP Waiver Checker API (Go-Live) | 30th September 2024 |
 
 ## What we're working on now
-The NOP Waiver Checker API v1.0 is preparing for Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the NOP changelog on GitHub regularly.
+The NOP Waiver Checker API v1.0 has entered Alpha Assessment. Some of the existing features of the API might be enhanced, so you should review the NOP [API Changelog](https://github.com/hmrc/uknw-auth-checker-api/blob/main/CHANGELOG.md) on GitHub regularly.
 
 ## Updates
 - NOP Waiver Checker API v1.0 will not be ready for use in production until the NOP Waiver Checker API service goes live.
 
 ## Related documentation
-- NOP Waiver Checker API v1.0 reference guide [here](api-documentation/docs/api/service/uknw-auth-checker-api/1.0 )
-- NOP Waiver Checker API v1.0 service guide [here]()
+- NOP Waiver Checker API v1.0 [reference guide](/api-documentation/docs/api/service/uknw-auth-checker-api/1.0 )
+- NOP Waiver Checker API v1.0 [service guide]()
 
 **Note** It's important to ensure that your customers are equipped to use the new API and have the proper registration details, such as Government Gateway credentials, and that you've prepared them to make transit declarations.
 
