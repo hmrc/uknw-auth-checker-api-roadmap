@@ -1,5 +1,16 @@
 # Notification of Presentation Waiver Roadmap
 
+## Overview
+This is the roadmap for the Notification of Presentation Waiver roadmap service, and it details the development roadmap for the service.
+
+## Editing Roadmap pages
+
+Template files are located in `./source/documentation`. All pages are written in [Markdown](https://en.wikipedia.org/wiki/Markdown).
+
+To add new pages simply copy and paste one of the existing pages, it will automatically appear in the menu.
+
+`example-page.html.md.erb` provides examples and best practices styles.
+
 ## Previewing
 
 #### Option 1 - Using Docker (recommended)
@@ -60,7 +71,7 @@ version you specify on the build job is the same as what is in `.node-version`.
 
 ## FAQ
 
-### I already have a Service Guide how do I update to this version
+### I already have a Roadmap how do I update to this version
 
 The easiest and safest option would be:
 
