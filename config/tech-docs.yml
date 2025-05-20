@@ -3,6 +3,7 @@ service_name: Notice of Presentation Waiver Checker Roadmap
 
 # The route that will be used to access this site (with tailing slash)
 service_link: /roadmaps/uknw-auth-checker-api-roadmap/
+use_service_link_for_favicon: true
 
 # ================================================
 # You shouldn't need to edit anything below here
