@@ -5,7 +5,7 @@ weight: 1
 
 # Notification of Presentation Waiver Checker API Roadmap
 
-Last updated: August 13th 2024
+Last updated: August 1st 2025
 ***
 
 ## Notification of Presentation (NOP) waiver
